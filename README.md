@@ -6,6 +6,7 @@ python3.8 ./main.py
 ```
 
 Example of the the interface:
+    What do you want to do?
 
     1. Store setting,
     2. View all settings,
@@ -13,3 +14,4 @@ Example of the the interface:
     4. Change setting,
     5. Delete setting,
     6. Exit
+    Choose between 1-6
