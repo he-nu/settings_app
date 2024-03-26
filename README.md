@@ -1,4 +1,4 @@
-**Simple sqlite3 commanline interface application using python3.8, for storing settings in a database.**
+**Simple sqlite3 commandline interface application using python3.8, for storing settings in a database.**
 
 Run with:
 ```
